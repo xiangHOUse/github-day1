@@ -4,9 +4,8 @@ Name: Xiang Hou
 Role: EE Engineer
 
 Learning Goal:
-
-GitHub
-Git
-Copilot
-AI Development
+- GitHub
+- Git
+- Copilot
+- AI Development
 Date: 2026-10-08
