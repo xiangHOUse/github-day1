@@ -1,2 +1,12 @@
 # github-day1
-My first Github practice
+Name: Xiang Hou
+
+Role: EE Engineer
+
+Learning Goal:
+
+GitHub
+Git
+Copilot
+AI Development
+Date: 2026-10-08
