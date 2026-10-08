@@ -8,4 +8,5 @@ Learning Goal:
 - Git
 - Copilot
 - AI Development
+  
 Date: 2026-10-08
